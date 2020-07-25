@@ -1,5 +1,11 @@
 Original GitHub Repository: https://github.com/gripep/cARe
 
+## Screenshots
+
+<img src="https://i.ibb.co/ggYWv6T/c1.png" alt="c1" border="0">
+
+<img src="https://i.ibb.co/jTBZrgX/c2.png" alt="c2" border="0">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
